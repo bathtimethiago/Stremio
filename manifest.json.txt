@@ -1,0 +1,25 @@
+
+{
+  "id": "br.ebc.radio-nacional-rj",
+  "version": "1.0.0",
+  "name": "Rádio Nacional RJ",
+  "description": "Rádio Nacional do Rio de Janeiro ao vivo — EBC",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "tv"
+  ],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "radio-nacional-rj",
+      "name": "Rádio Nacional RJ"
+    }
+  ],
+  "idPrefixes": [
+    "radio-nacional-rj"
+  ]
+}
